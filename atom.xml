@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mercyzz</title>
+  
+  <subtitle>Mercyzzの生活ブログ</subtitle>
+  <link href="http://MercyzzCN.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://MercyzzCN.github.io/"/>
+  <updated>2022-03-24T00:00:00.000Z</updated>
+  <id>http://MercyzzCN.github.io/</id>
+  
+  <author>
+    <name>Mercyzz</name>
+    
+  </author>
+  
+  <generator uri="https://github.com/MercyzzCN/MercyzzCN.github.io">Blog Dev</generator>
+  
+  <entry>
+    <title>hello world</title>
+    <link href="https://mercyzzcn.github.io/2022/03/24/hello world/"/>
+    <id>https://mercyzzcn.github.io/2022/03/24/hello world/</id>
+    <published>2022-03-24T00:00:00.000Z</published>
+    <updated>2022-03-24T00:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">欢迎来到 <a href="https://mercyzzcn.github.io">我的博客! 这是我的第一篇博文.</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
